@@ -1,0 +1,17 @@
+[
+{
+  "directory": "D:/vscode/code/C++/game/build",
+  "command": "D:\\MinGW\\bin\\g++.exe   @CMakeFiles/game.dir/includes_CXX.rsp -g   -o CMakeFiles\\game.dir\\app\\main.cpp.obj -c D:\\vscode\\code\\C++\\game\\app\\main.cpp",
+  "file": "D:/vscode/code/C++/game/app/main.cpp"
+},
+{
+  "directory": "D:/vscode/code/C++/game/build",
+  "command": "D:\\MinGW\\bin\\g++.exe   @CMakeFiles/game.dir/includes_CXX.rsp -g   -o CMakeFiles\\game.dir\\src\\character.cpp.obj -c D:\\vscode\\code\\C++\\game\\src\\character.cpp",
+  "file": "D:/vscode/code/C++/game/src/character.cpp"
+},
+{
+  "directory": "D:/vscode/code/C++/game/build",
+  "command": "D:\\MinGW\\bin\\g++.exe   @CMakeFiles/game.dir/includes_CXX.rsp -g   -o CMakeFiles\\game.dir\\src\\gamerun.cpp.obj -c D:\\vscode\\code\\C++\\game\\src\\gamerun.cpp",
+  "file": "D:/vscode/code/C++/game/src/gamerun.cpp"
+}
+]

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="Win32-mingw32-make"
+	BuildStamp="20240314-1336-Experimental"
+	Name="LAPTOP-GURBJFTN"
+	Generator="ctest-3.17.20032601-MSVC_2"
+	CompilerName="D:/MinGW/bin/g++.exe"
+	CompilerVersion="9.2.0"
+	OSName="Windows"
+	Hostname="LAPTOP-GURBJFTN"
+	OSRelease=" Personal"
+	OSVersion=" (Build 22000)"
+	OSPlatform="x86"
+	Is64Bits="1"
+	VendorString="AuthenticAMD"
+	VendorID="Advanced Micro Devices"
+	FamilyID="15"
+	ModelID="0"
+	ProcessorCacheSize="64"
+	NumberOfLogicalCPU="12"
+	NumberOfPhysicalCPU="6"
+	TotalVirtualMemory="21241"
+	TotalPhysicalMemory="15741"
+	LogicalProcessorsPerPhysical="2"
+	ProcessorClockFrequency="2994"
+	>
+	<Testing>
+		<StartDateTime>Mar 14 21:53 [NON-UTF-8-BYTE-0xD6]й[NON-UTF-8-BYTE-0xFA][NON-UTF-8-BYTE-0xB1][NON-UTF-8-BYTE-0xEA]׼ʱ[NON-UTF-8-BYTE-0xBC][NON-UTF-8-BYTE-0xE4]</StartDateTime>
+		<StartTestTime>1710424394</StartTestTime>
+		<TestList/>
+		<EndDateTime>Mar 14 21:53 [NON-UTF-8-BYTE-0xD6]й[NON-UTF-8-BYTE-0xFA][NON-UTF-8-BYTE-0xB1][NON-UTF-8-BYTE-0xEA]׼ʱ[NON-UTF-8-BYTE-0xBC][NON-UTF-8-BYTE-0xE4]</EndDateTime>
+		<EndTestTime>1710424394</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>
